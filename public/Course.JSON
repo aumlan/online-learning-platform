@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PR01",
+    "title": "Spoken English",
+    "price": 500,
+    "description": "Learn spoken English online. 80+ video lessons, quizzes, and notes to help you speak fluently in English.",
+    "category": "Spoken",
+    "teacher": "Munjarin Shahid",
+    "video": "45",
+    "quiz": "25",
+    "rating": "4.9",
+    "totalEnrole": "1200",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg"
+  },
+
+  {
+    "id": "PR02",
+    "title": "Facebook Marketing",
+    "price": 400,
+    "description": "Build a highly successful brand on Facebook by learning in-depth Facebook Marketing!",
+    "category": "Marketing",
+    "teacher": "Ayman Sadik",
+    "video": "55",
+    "quiz": "45",
+    "rating": "4.5",
+    "totalEnrole": "3500",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Facebook%20Marketing_Landscape.jpg"
+  },
+  {
+    "id": "PR03",
+    "title": "Programming for Kids",
+    "price": 350,
+    "description": "Help your kids to learn the basics of  programming using javaScript blocks !",
+    "category": "Programming",
+    "teacher": "Prapty Rahman",
+    "video": "20",
+    "quiz": "10",
+    "rating": "4.0",
+    "totalEnrole": "200",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Programming-for-Kids---Title-Thumbnail.jpg"
+  },
+  {
+    "id": "PR04",
+    "title": "Freelancing From home",
+    "price": 350,
+    "description": "Learn freelancing from home in just one course with tutorials, notes, quizzes and cheatsheets.",
+    "category": "Frelancing",
+    "teacher": "Joyeta Banerjee",
+    "video": "10",
+    "quiz": "2",
+    "rating": "4.2",
+    "totalEnrole": "50",
+    "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FGhore-Boshe-Freelancing---Title-thumbnail.jpg"
+  },
+  {
+    "id": "PR05",
+    "title": "Graphic Designing",
+    "price": 350,
+    "description": "Graphic Design Course is now online. Learn graphic design with PowerPoint and become a pro in it.",
+    "category": "Graphic",
+    "teacher": "Anisha Saiyara Taznoor",
+    "video": "35",
+    "quiz": "15",
+    "rating": "4.2",
+    "totalEnrole": "1500",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Graphic%20Designing%20w.%20PPPT_Landscape.jpg"
+  },
+  {
+    "id": "PR06",
+    "title": "Kids English",
+    "price": 450,
+    "description": "Teach your kids how to speak English in every daily life scenario with fun and easy tutorials!",
+    "category": "Child",
+    "teacher": "Munjarin Shahid",
+    "video": "35",
+    "quiz": "25",
+    "rating": "4.8",
+    "totalEnrole": "1500",
+    "img": "https://cdn.10minuteschool.com/images/skills/jpeg/Kids-English---Title-thumbnail.jpg"
+  },
+  {
+    "id": "PR07",
+    "title": "Public Speaking",
+    "price": 400,
+    "description": "Get rid of your fear of presentation and become a better public speaker and presenter with this free course!",
+    "category": "Speaking",
+    "teacher": "Ayman Sadiq",
+    "video": "25",
+    "quiz": "5",
+    "rating": "4.7",
+    "totalEnrole": "400",
+    "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Presentation%20and%20Public%20Speaking_Landscape.jpg"
+  },
+  {
+    "id": "PR05",
+    "title": "English Grammar Course",
+    "price": 350,
+    "description": "Learn basic English grammar without having to memorize grammar rules today!",
+    "category": "Spoken",
+    "teacher": "Sakib Bin Rashid",
+    "video": "55",
+    "quiz": "45",
+    "rating": "4.5",
+    "totalEnrole": "1700",
+    "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FEnglish-Grammar-Crash-Course---Title-Thumbnail.jpg"
+  }
+]
