@@ -1,7 +1,7 @@
 # Online Learning Platform 
 
 This project is deployed in Netlify.
-Project Live Link: [Neuclear Weapon Sumit](https://online-learning-react-aumlan.netlify.app/).
+Project Live Link: [Online Learning Platform](https://online-learning-react-aumlan.netlify.app/).
 
 ### `About The Website`
 
